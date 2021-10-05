@@ -33,7 +33,7 @@ public class PracticExercises {
 	public static void main(String[] args) {
 
 //		fibonacci(13);
-//		swapnumbers();
+		swapnumbers();
 		System.out.println(checkPalindrome("anitalavalatina"));
 		
 	}
